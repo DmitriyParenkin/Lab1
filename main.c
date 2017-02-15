@@ -1,6 +1,6 @@
 # include <stdio.h>
 int main()
 {
-  printf("Hello world.p");
+  printf("Laba gotova");
   return 0;
 }
